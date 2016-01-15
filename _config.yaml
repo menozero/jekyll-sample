@@ -1,10 +1,26 @@
 
 title: This Website Has No Title
+# name
+
+description: Not a Description
+
+url: https://menozero.github.io/jekyll-sample
 
 
+author:
+  name: Author
+  email: none@example.com
+  uri: https://menozero.github.io/
 
 gems:
+  - jekyll-feed
   - jekyll-sitemap
-
+  
 # sitemap: false
 
+# feed:
+#   path: atom.xml
+# {% feed_meta %}
+
+# date title excerpt id category tags
+# author
