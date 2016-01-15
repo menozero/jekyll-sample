@@ -1,2 +1,10 @@
 
 title: This Website Has No Title
+
+
+
+gems:
+  - jekyll-sitemap
+
+# sitemap: false
+
