@@ -12,6 +12,10 @@ author:
   email: none@example.com
   uri: https://menozero.github.io/
 
+sass:
+  sass_dir: assets/_sass
+
+
 gems:
   - jekyll-feed
   - jekyll-sitemap
