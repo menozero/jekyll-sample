@@ -5,7 +5,7 @@ title: This Website Has No Title
 description: Not a Description
 
 url: https://menozero.github.io/jekyll-sample
-
+baseurl: /jekyll-sample
 
 author:
   name: Author
