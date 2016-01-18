@@ -1,4 +1,14 @@
 
+// Default font
 html, body {
   font-family: "Bitter", 'bitter', serif;
+}
+
+// Monospace font
+pre, code, kbd, samp, tt {
+  font-family: "Bitter", 'bitter', monospace;
+}
+
+input, button, select, optgroup, textarea {
+  font-family: inherit;
 }
