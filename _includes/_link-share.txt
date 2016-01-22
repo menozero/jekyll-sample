@@ -1,0 +1,21 @@
+
+- LinkedIn
+https://www.linkedin.com/shareArticle?mini=true
+     &url=
+     &title=
+     &source=(url)
+     &summary=
+     
+- Pinterest
+https://www.pinterest.com/pin/create/button/
+     ?url=
+     &media=(image)
+     &description=
+     &hashtags=one,two
+
+- Reddit
+http://www.reddit.com/submit/?url=
+     
+- Pinboard
+
+- Email
