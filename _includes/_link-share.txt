@@ -5,7 +5,10 @@ https://www.linkedin.com/shareArticle?mini=true
      &title=
      &source=(url)
      &summary=
-     
+
+- Tumblr
+https://www.tumblr.com/share/link?url=...
+
 - Pinterest
 https://www.pinterest.com/pin/create/button/
      ?url=
