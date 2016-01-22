@@ -6,6 +6,7 @@ description: Not a Description
 
 url: https://menozero.github.io/jekyll-sample
 baseurl: /jekyll-sample
+# site.url + site.baseurl + post.url = absolute url (no '/' added)
 
 author:
   name: Author
