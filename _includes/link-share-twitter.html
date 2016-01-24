@@ -1,4 +1,3 @@
-<a target="_blank" href="https://twitter.com/intent/tweet?url={{ post.url | prepend: site.baseurl | prepend: site.url | uri_escape }}&original_referer={{ post.url | prepend: site.baseurl | prepend: site.url | uri_escape }}&text={{ post.title | uri_escape }}"><i class="fa fa-twitter"></i>&nbsp;Tweet</a>
+<a target="_blank" href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl | prepend: site.url | uri_escape }}&original_referer={{ page.url | prepend: site.baseurl | prepend: site.url | uri_escape }}&text={{ page.title | uri_escape }}{% if site.twitter.username %}&via={{ site.twitter.username | uri_escape }}{% endif %}"><i class="fa fa-twitter"></i>&nbsp;Tweet</a>
 {% comment %} &hashtags=one,two {% endcomment %}
-{% comment %} TODO &via=twitterusername {% endcomment %}
 {% comment %} https://dev.twitter.com/web/tweet-button/web-intent {% endcomment %}
